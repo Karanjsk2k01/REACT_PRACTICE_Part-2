@@ -33,10 +33,6 @@
   color: red;
 }
 
-.form-control.invalid button {
-  background-color: red;
-  /* Set the background color for the invalid state */
-  color: white;
-  /* Set the text color for the invalid state */
-  /* Add any additional styling you need for the invalid state */
+.button.invalid {
+  background-color: lightcoral;
 }
